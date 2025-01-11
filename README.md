@@ -4,3 +4,4 @@ Algorithms written by me in my internship for Golang :)
 
 ## Math
 - [DeBruijn Sequence](deBruijn/)
+- [Simple XOR Encrypt/Decrypt](SimpleXOR/)
