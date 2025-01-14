@@ -3,5 +3,6 @@
 Algorithms written by me in my internship for Golang :)
 
 ## Math
-- [DeBruijn Sequence](deBruijn/)
-- [Simple XOR Encrypt/Decrypt](SimpleXOR/)
+- [DeBruijn Sequence](Maths/debruijn.go)
+- [Simple XOR Encrypt/Decrypt](Maths/simple_xor.go)
+- [Euclides Algorithms(MCD)](Maths/euclides.go)
